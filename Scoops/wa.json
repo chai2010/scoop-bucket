@@ -1,0 +1,15 @@
+{
+    "version": "0.8.0-test2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wa-lang/wa/releases/download/v0.8.0-test2/wa_0.8.0-test2_windows_amd64.zip",
+            "bin": [
+                "wa.exe"
+            ],
+            "hash": "39ff52862c31d65e5f776d6fcb0c7d9ee2a7b53b9499aeafce7ecdb55ee450c3"
+        }
+    },
+    "homepage": "http://github.com/wa-lang/wa",
+    "license": "AGPL-3.0 license",
+    "description": "The Wa Programming Language"
+}
