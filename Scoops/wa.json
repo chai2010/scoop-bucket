@@ -1,12 +1,12 @@
 {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wa-lang/wa/releases/download/v0.9.0/wa_0.9.0_windows_amd64.zip",
+            "url": "https://github.com/wa-lang/wa/releases/download/v0.9.1/wa_0.9.1_windows_amd64.zip",
             "bin": [
                 "wa.exe"
             ],
-            "hash": "049b1bfd2d0ef14961bcb9ac4d86ca00eb11e9449ee0510cafa419c76353edfb"
+            "hash": "900cbe4d5c18d96ba9cc14af3d71424fa19c94e68eb1457c90a0c494963b151a"
         }
     },
     "homepage": "http://github.com/wa-lang/wa",
